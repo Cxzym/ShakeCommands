@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShakeCommands", "ShakeCommands\ShakeCommands.csproj", "{AFC37897-0803-42A5-A71E-B69EA45E393B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC37897-0803-42A5-A71E-B69EA45E393B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC37897-0803-42A5-A71E-B69EA45E393B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC37897-0803-42A5-A71E-B69EA45E393B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC37897-0803-42A5-A71E-B69EA45E393B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {131EAB3B-1B88-4F5B-8546-C68F87D41A58}
+	EndGlobalSection
+EndGlobal
